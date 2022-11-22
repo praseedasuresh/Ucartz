@@ -1,0 +1,203 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: white;
+    width: 100%;
+    height: 752px;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/6063b0835f68896079d7d643/1617908516380-MGDSF238F46LA8HAN8ZQ/LVCC%2BLoop%2BHero%2B2_April%2B2021.jpg?format=2500w);
+    background-size: cover;
+    /* display: flex; */
+}
+
+.nav1 {
+    width: 15%;
+    height: 87px;
+    float: left;
+    padding-top: 27px;
+    padding-left: 84px;
+    /* display: flex; */
+}
+
+.nav2 {
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 45%;
+    /*height: 87px;*/
+    float: left;
+    color: white;
+    padding-top: 51px;
+    /* display: flex; */
+}
+
+.nav3 {
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 39%;
+    /*height: 87px;*/
+    float: left;
+    color: white;
+    padding-top: 49px;
+    padding-left: 341px;
+    /*display: flex;*/
+}
+
+.logo {
+    width: 108px;
+    height: 63.89px;
+}
+
+.navtitles {
+    width: 61px;
+    height: 33px;
+    color: blue;
+}
+
+.statement1 {
+    display: table;
+    color: white;
+    padding-top: 442px;
+    padding-left: 100px;
+}
+
+.sentence {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 4400;
+    font-style: normal;
+    font-size: 20px;
+    letter-spacing: .03em;
+    line-height: 1.9em;
+    text-transform: none;
+}
+
+.container2 {
+    background-color: white;
+    width: 100%;
+    height: 730px;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/6063b0835f68896079d7d643/1617910318613-W9Q49L9OVNA7NZBJ5RYJ/Tunnel%2Bphoto%2B1.jpg?format=2500w);
+    background-size: 100% 100%;
+}
+
+.question {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    letter-spacing: 0.015em;
+    line-height: 4em;
+    text-transform: uppercase;
+    padding-top: 300px;
+    padding-left: 100px;
+}
+
+.answer {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: .03em;
+    line-height: 1.3em;
+    text-transform: none;
+    padding-left: 100px;
+}
+
+.learnmorebutton {
+    font-size: 14px;
+    color: #fff;
+    border-radius: 80px;
+    width: 218px;
+    height: 62px;
+    background-color: transparent;
+    border: 2px solid #fff;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.container3 {
+    background-color: white;
+    width: 100%;
+    height: 730px;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/6063b0835f68896079d7d643/1617516361165-UQK7W8R80GXTQQ1YBUP9/car%25252Bin%25252Btunnel.jpg?format=2500w);
+    background-size: 100% 100%;
+}
+
+.container4 {
+    background-color: white;
+    width: 100%;
+    height: 730px;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/6063b0835f68896079d7d643/1617556988937-1YD9MUPINA2MX9D9KAE1/20210108_185830.jpg?format=2500w);
+    background-size: 100% 100%;
+}
+
+.container5 {
+    background-color: white;
+    width: 100%;
+    height: 730px;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/6063b0835f68896079d7d643/1618426023431-JY0VJ7XCQUYY76QO9D1H/9af6c204fe596ec3bfe3cdeeb7294f56.jpg?format=2500w);
+    background-size: 100% 100%;
+}
+
+.container6 {
+    background-color: black;
+    width: 100%;
+    height: 400px;
+}
+
+.returnbutton {
+    font-size: 14px;
+    color: #fff;
+    border-radius: 80px;
+    width: 218px;
+    height: 62px;
+    background-color: transparent;
+    border: 2px solid #fff;
+    margin-top: 79px;
+    margin-left: 550px;
+}
+
+.lineimage {
+    margin-top: 31px;
+    /* background-size: 0%; */
+}
+
+.nav4 {
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 87px;
+    color: white;
+    padding-top: 50px;
+    padding-left: 510px;
+}
+
+
+/* .new::{
+    content: "abcd";
+    
+} */
+
+
+/*.gradientline {
+    padding: 50px;
+    padding-left: 614px;
+}*/
+
+.nav5 {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 87px;
+    color: white;
+    padding-left: 470px;
+}
+
+
+/* .new::{
+    content: "abcd";
+    
+} */
