@@ -30,19 +30,19 @@
     float: left;
     color: white;
     padding-top: 51px;
-    /* display: flex; */
+    display: flex;
 }
 
 .nav3 {
     font-size: 13px;
     font-family: Arial, Helvetica, sans-serif;
-    width: 39%;
+    width: 40%;
     /*height: 87px;*/
     float: left;
     color: white;
     padding-top: 49px;
-    padding-left: 341px;
-    /*display: flex;*/
+    padding-left: 200px;
+    display: flex;
 }
 
 .logo {
